@@ -1,0 +1,10 @@
+org\educa\airline\repository\FlightRepository.class
+org\educa\airline\entity\Luggage.class
+org\educa\airline\repository\inmemory\InMemoryFlightRepository.class
+org\educa\airline\entity\Passenger.class
+org\educa\airline\repository\inmemory\InMemoryPassengerRepository.class
+org\educa\airline\repository\PassengerRepository.class
+org\educa\airline\repository\LuggageRepository.class
+org\educa\airline\Main.class
+org\educa\airline\entity\Flight.class
+org\educa\airline\repository\inmemory\InMemoryLuggageRepository.class
